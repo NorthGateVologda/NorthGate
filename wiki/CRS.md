@@ -87,7 +87,10 @@ $(2^{zoom\ level}-1, 2^{zoom\ level}-1)$ Параметры передающие
 моменту я ни где не нашла.
 
 $$
-x = [\frac{1}{2\pi} \cdot 2^{zoom\ level}(\lambda-\pi)]\ pixels\\
+x = [\frac{1}{2\pi} \cdot 2^{zoom\ level}(\lambda-\pi)]\ pixels
+$$
+
+$$
 y = [\frac{1}{2\pi} \cdot 2^{zoom\ level}
 (\pi - ln[tan(\frac{\pi}{4}-\frac{\phi}{2})])]\ pixels
 $$
