@@ -1,4 +1,5 @@
-data/
+Notebooks/GeoJSON/data/
+keys/
 .ipynb_checkpoints
 api_key.txt
 *.csv
