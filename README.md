@@ -4,6 +4,6 @@
 
 Пока всё в процессе написания.
 
-[Wiki](wiki) проекта.
+[Wiki](https://github.com/NorthGateVologda/NorthGateWiki/blob/main/README.md) проекта.
 
 [1]: https://arctech.center/arctech-data/
